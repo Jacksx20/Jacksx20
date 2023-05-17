@@ -18,7 +18,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&theme=nord_dark' width='520px'> <img align='right' src='https://github-readme-stats.vercel.app/api?username=Jacksx20&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width='300px'>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&theme=nord_dark' width='520px'> <img align='right' src='https://github-readme-stats.vercel.app/api?username=Jacksx20&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width='305px'>
 
 <div align="center" >
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacksx20&show_icons=true" />
