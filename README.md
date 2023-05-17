@@ -21,6 +21,6 @@
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&theme=nord_dark' width='520px'> <img align='right' src='https://github-readme-stats.vercel.app/api?username=Jacksx20&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width='36.2%' >
 
 <div align="center" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacksx20&show_icons=true" />
+<img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacksx20&show_icons=true" />
  </div>
 
