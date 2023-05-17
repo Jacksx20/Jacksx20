@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Contributions
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jacksx20&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jacksx20&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
