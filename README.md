@@ -26,4 +26,3 @@
 <div align="center" >
 <img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacksx20&show_icons=true" />
  </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacksx20)](https://github.com/anuraghazra/github-readme-stats)
