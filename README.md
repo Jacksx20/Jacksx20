@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Contributions
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up;You+will+be+successful)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jacksx20/Jacksx20/output/github-contribution-grid-snake-dark.svg">
