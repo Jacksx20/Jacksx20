@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### My Contributions
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up;You+will+be+successful)
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
