@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Jacksx20/Jacksx20/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jacksx20/Jacksx20/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -31,6 +33,18 @@
 <!--
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=Jacksx20&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width='36%' >
 -->
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
 <div align="center" >
 <img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacksx20&show_icons=true" />
