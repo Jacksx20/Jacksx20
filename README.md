@@ -1,8 +1,16 @@
 ### Hi there 👋
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Jacksx20/Jacksx20/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jacksx20/Jacksx20/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Jacksx20/Jacksx20/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  
 ### My Contributions
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
