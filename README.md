@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jacksx20/Jacksx20/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jacksx20/Jacksx20/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jacksx20/Jacksx20/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### My Contributions
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
 
