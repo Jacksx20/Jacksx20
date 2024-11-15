@@ -28,6 +28,8 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 
 <table align="center" >
@@ -39,7 +41,6 @@
     <img height="137px" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&theme=nord_dark'/>
     <img height="137px" align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jacksx20&theme=nord_dark'/><br>
   </div>
-
   </td>
 </tr>
 
