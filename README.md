@@ -30,12 +30,18 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
 
-<table>
+<table align="center" >
   
-<tr><td>
-    <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&theme=nord_dark' width='520px'>
-    <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jacksx20&theme=nord_dark' width='270px'>
-  </td></tr>
+<tr>
+  <td>
+  <div>
+    <!-- GitHub 数据统计 -->
+    <img height="137px" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&theme=nord_dark'/>
+    <img height="137px" align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jacksx20&theme=nord_dark'/><br>
+  </div>
+
+  </td>
+</tr>
 
 </table>
 
@@ -48,6 +54,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
+    </td>
   </tr>
 </table>
 
