@@ -14,12 +14,12 @@
   <div>&nbsp;</div>
   
 <div align="center" >
+  
   <!--  skill badge 技能徽章 -->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![](https://img.shields.io/badge/-?style=flat-square&logo=Android&logoColor=fff)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
