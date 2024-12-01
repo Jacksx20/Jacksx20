@@ -26,7 +26,6 @@
     ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
     ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
     ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-    ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
     
 - 💻 I work using:
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
@@ -54,6 +53,7 @@
   ![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
 
 
 
