@@ -11,6 +11,7 @@
     <img alt="github-snake" src="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
 ### My Contributions
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
 
