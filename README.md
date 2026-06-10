@@ -15,6 +15,7 @@
 ### My Contributions
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
 
+<img width="200%" src="https://github.com/Jacksx20/Jacksx20/blob/main/images/hr.gif" />
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
@@ -99,7 +100,7 @@
   </picture>
   <img align="right" width="130" src="https://github.com/Jacksx20/Jacksx20/blob/main/images/wingright.png" />
  </div>
-
+<img width="200%" src="https://github.com/Jacksx20/Jacksx20/blob/main/images/hr.gif" />
  <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
